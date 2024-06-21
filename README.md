@@ -9,7 +9,7 @@ A simple lightweight containers resizer handle with javascript. It allows you to
 
 ## Demo
 
-Check out the [live demo](demo/index.html) to see `containers-resizer.js` in action.
+Check out the [Demo file](demo/demo.html) to see `containers-resizer.js` in action.
 
 ## Installation
 
