@@ -1,0 +1,24 @@
+{
+  "name": "containers-resizer",
+  "version": "1.0.0",
+  "description": "A simple lightweight containers resizer handle with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reemrizzk/containers-resizer.git"
+  },
+  "keywords": [
+    "resizer",
+    "handle",
+    "javascript"
+  ],
+  "author": "Reem Rizk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reemrizzk/containers-resizer/issues"
+  },
+  "homepage": "https://github.com/reemrizzk/containers-resizer#readme"
+}
